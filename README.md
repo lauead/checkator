@@ -1,6 +1,6 @@
-# Focus Notes
+# Checkátor
 
-Pracovní název malé desktopové aplikace, která pomáhá vracet se k rozdělané práci. Umožní průběžně ukládat poznámky k úkolům, přidávat k nim odkazy na Jira tickety a stránky v Confluence a pravidelně je připomínat.
+Checkátor je malá desktopová aplikace, která pomáhá vracet se k rozdělané práci. Umožní průběžně ukládat poznámky k úkolům, přidávat k nim odkazy na Jira tickety a stránky v Confluence a pravidelně je připomínat.
 
 Nejvyšší prioritou je spuštění na pracovním počítači bez instalace, nízká spotřeba prostředků při běhu na pozadí a jednoduché, přehledné rozhraní.
 
